@@ -1,0 +1,9 @@
+C:\Users\chris\Documents\Visual Studio 2013\Projects\exeToNNUE\exeToNNUE\bin\Debug\exeToNNUE.exe.config
+C:\Users\chris\Documents\Visual Studio 2013\Projects\exeToNNUE\exeToNNUE\bin\Debug\exeToNNUE.exe
+C:\Users\chris\Documents\Visual Studio 2013\Projects\exeToNNUE\exeToNNUE\bin\Debug\exeToNNUE.pdb
+C:\Users\chris\Documents\Visual Studio 2013\Projects\exeToNNUE\exeToNNUE\bin\Debug\exeToNNUE.xml
+C:\Users\chris\Documents\Visual Studio 2013\Projects\exeToNNUE\exeToNNUE\obj\Debug\exeToNNUE.Resources.resources
+C:\Users\chris\Documents\Visual Studio 2013\Projects\exeToNNUE\exeToNNUE\obj\Debug\exeToNNUE.vbproj.GenerateResource.Cache
+C:\Users\chris\Documents\Visual Studio 2013\Projects\exeToNNUE\exeToNNUE\obj\Debug\exeToNNUE.exe
+C:\Users\chris\Documents\Visual Studio 2013\Projects\exeToNNUE\exeToNNUE\obj\Debug\exeToNNUE.xml
+C:\Users\chris\Documents\Visual Studio 2013\Projects\exeToNNUE\exeToNNUE\obj\Debug\exeToNNUE.pdb
